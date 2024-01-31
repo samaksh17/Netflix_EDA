@@ -1,2 +1,5 @@
 # Netflix_EDA
 Netflix - Data Exploration and Visualization using Python libraries (Numpy, Pandas, Matplotlib and Seaborn)
+
+As part of this project, I undertook various tasks to analyze and visualize data related to the Netflix platform. This project aims to provide valuable insights into the Netflix dataset, enabling better understanding of the content available on the platform and providing data driven decision making for content creators, analysts and other stakeholders. Led data cleaning, exploratory data analysis, and visualization on a Kaggle-sourced Netflix dataset. Conducted user behavior analysis to uncover patterns, preferences, and engagement metrics, contributing to content recommendation strategies
+Netflix is one of the most popular media and video streaming platforms. They have over 10000 movies or tv shows available on their platform, as of mid-2021, they have over 222M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
